@@ -8,7 +8,7 @@ export default function Home() {
       margin: 0,
       background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
       color: 'white',
-      fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif'
+      fontFamily: '-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif'
     }}>
       <div style={{ textAlign: 'center', padding: '2rem' }}>
         <div style={{ fontSize: '5rem', marginBottom: '1rem' }}>🌱</div>
@@ -21,7 +21,7 @@ export default function Home() {
           borderRadius: '8px',
           display: 'inline-block'
         }}>
-          ✅ Connected & Live
+          Connected and Live
         </div>
       </div>
     </main>
